@@ -1,0 +1,12 @@
+{
+  "name": "css-important-disarmament",
+  "version": "1.0.0",
+  "description": "Ends the CSS !important arms race",
+  "main": "important-disarmament.js",
+  "bin": {
+    "disarm-css": "./important-disarmament.js"
+  },
+  "keywords": ["css", "important", "disarmament", "specificity"],
+  "author": "CSS Peacekeeper",
+  "license": "MIT"
+}
